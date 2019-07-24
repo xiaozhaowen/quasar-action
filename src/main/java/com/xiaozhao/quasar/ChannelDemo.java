@@ -1,4 +1,4 @@
-package com.xiaozhao.office;
+package com.xiaozhao.quasar;
 
 import co.paralleluniverse.strands.channels.Channel;
 import co.paralleluniverse.strands.channels.Channels;

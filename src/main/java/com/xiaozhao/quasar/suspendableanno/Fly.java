@@ -1,4 +1,4 @@
-package com.xiaozhao.office.suspendableanno;
+package com.xiaozhao.quasar.suspendableanno;
 
 /**
  * 接口方法，没有声明抛出SuspendExecution

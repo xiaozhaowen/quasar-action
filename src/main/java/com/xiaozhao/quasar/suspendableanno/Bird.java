@@ -1,4 +1,4 @@
-package com.xiaozhao.office.suspendableanno;
+package com.xiaozhao.quasar.suspendableanno;
 
 import co.paralleluniverse.fibers.SuspendExecution;
 import co.paralleluniverse.fibers.Suspendable;
